@@ -1,6 +1,5 @@
 package java.com.example.libreria.model;
 
-import javax.print.DocFlavor.STRING;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
