@@ -18,5 +18,5 @@ public class libros {
     private int fechapublicacion;
     private String autor;
 
-    private String elpixula;
+    private String elpixulaaaa;
 }
