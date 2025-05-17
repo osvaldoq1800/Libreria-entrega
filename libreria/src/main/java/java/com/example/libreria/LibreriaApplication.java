@@ -1,4 +1,4 @@
-package com.example.libreria;
+package java.com.example.libreria;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

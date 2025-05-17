@@ -1,4 +1,4 @@
-package com.example.libreria.model;
+package java.com.example.libreria.model;
 
 import javax.print.DocFlavor.STRING;
 

@@ -1,4 +1,4 @@
-package com.example.libreria.repository;
+package java.com.example.libreria.repository;
 
 public class usuariorepository {
 

@@ -1,6 +1,6 @@
-package com.example.libreria.repository;
+package java.com.example.libreria.repository;
 
-import com.example.libreria.model.libros;
+import java.com.example.libreria.model.libros;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
