@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class LibreriaApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() {"hola solapas"
 	}
 
 }
